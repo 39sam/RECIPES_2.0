@@ -1,0 +1,25 @@
+body {
+  background-color: burlywood;
+  margin: 0 auto;
+  max-width: 500px;
+  font-style: italic;
+}
+
+.rounded {
+  background-color: rgb(251, 255, 31);
+  border-radius: 12px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  box-sizing: border-box;
+  padding: 5px;
+  margin: 5px;
+}
+
+.style {
+  font-weight: 100;
+  color: darkgreen;
+}
+
+.alert {
+  font-weight: 200;
+  color: crimson;
+}
